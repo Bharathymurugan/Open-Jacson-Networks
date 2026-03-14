@@ -17,7 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
-
+![Output](https://github.com/Bharathymurugan/Open-Jacson-Networks/blob/main/experiment6prob.png?raw=true)
 
 ## Program
 ```
